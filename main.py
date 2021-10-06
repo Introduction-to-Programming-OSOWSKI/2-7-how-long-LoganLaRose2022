@@ -1,9 +1,8 @@
 #WRITE YOUR CODE IN THIS FILE
 def howLong(w):
-    x = 0
+    
+    return (len(w))
 
-    while x < len(w) :
-        print(w[x])
-        x = x + 1
+print(howLong("sonic"))
 
-howLong("taco") 
+ 
